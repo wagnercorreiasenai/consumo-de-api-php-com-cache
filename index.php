@@ -1,5 +1,6 @@
 <?php
 
+//Teste com GITHUB
 require './vendor/autoload.php';
 require 'Classes/OpenWeather.php';
 
